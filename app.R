@@ -9,7 +9,7 @@ ui <- fluidPage(
    
    # Sidebar with a slider input for number of bins 
       verticalLayout( h1("Gemmatria Caclulator/Converter"),
-                      h4("Developed from functions from the",em("gemmatria"),"package"),
+                      h4("Developed with functions from the",em("gemmatria"),"package"),
                          img(src="gemmatria.png",height=180,width=180,align="center"),
                       h5("Created by Benjamin Smith (GitHub Username:", 
                          a(href="https://github.com/benyamindsmith",
