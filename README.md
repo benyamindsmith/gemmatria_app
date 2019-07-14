@@ -21,4 +21,9 @@ To run this app copy run the following code in R
 
 ## Running this app on shinyapps.io
 
-___coming soon!___
+Don't have R? No problem! Check out the app here: 
+
+https://benyamindsmith.shinyapps.io/gemmatria/
+
+# Contact
+Have any questions? Want to get invloved? Contact me via GitHub!
