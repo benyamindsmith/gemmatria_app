@@ -1,6 +1,6 @@
 # gemmatria_app 
 
-This is a Shiny app of the [`gemmatria` package] (https://github.com/benyamindsmith/gemmatria), which provides a user interface for the functions created. 
+This is a Shiny app of the [`gemmatria`](https://github.com/benyamindsmith/gemmatria) package , which provides a user interface for the functions created. 
 
 ## Dependencies 
 
