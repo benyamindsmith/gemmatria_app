@@ -1,4 +1,4 @@
-# gemmatria_app <a href='https://github.com/benyamindsmith/gemmatria/tree/master/'><img src='	/גמטריה-2.png' align="right" height="200" /></a>
+# gemmatria_app 
 
 This is a Shiny app of the [`gemmatria` package] (https://github.com/benyamindsmith/gemmatria), which provides a user interface for the functions created. 
 
